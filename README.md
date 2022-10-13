@@ -44,3 +44,8 @@ I haven't released any games yet but when I do they will be shown here
  - [ ] [Cuddly-Computing-Machine](https://github.com/s1rdev10us/Cuddly-Computing-Machine-Docs/wiki)
 <!--| thing? | ah |
 |:----:|:--:|-->
+
+
+
+## People I recommend
+ - [Sebastian](https://github.com/SebLague) [Lague}(https://www.youtube.com/c/SebastianLague)
