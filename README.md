@@ -48,4 +48,4 @@ I haven't released any games yet but when I do they will be shown here
 
 
 ## People I recommend
- - [Sebastian](https://github.com/SebLague) [Lague](https://www.youtube.com/c/SebastianLague)
+ - Sebastian Lague [git](https://github.com/SebLague) [yt](https://www.youtube.com/c/SebastianLague)
