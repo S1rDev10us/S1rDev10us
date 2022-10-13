@@ -37,10 +37,10 @@ I haven't released any games yet but when I do they will be shown here
 ## Projects
 (Ticked if active)
  - [ ] Particle Simulation
- - [ ] [My Website](https://s1rdev10us.github.io "My Website")
+ - [x] [My Website](https://s1rdev10us.github.io "My Website")
  
  ## Games
  (Ticked if active)
- - [ ] Cuddly-Computing-Machine
+ - [ ] [Cuddly-Computing-Machine](https://github.com/s1rdev10us/Cuddly-Computing-Machine-Docs/wiki)
 <!--| thing? | ah |
 |:----:|:--:|-->
