@@ -1,4 +1,4 @@
-# Hi there 👋
+<!--# Hi there 👋
 <!--
 ## I am the creator of https://s1rdev10us.github.io/
 
@@ -16,3 +16,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+Hi I'm S1r and I'm an indie game developer
+
+I haven't released any games yet but when I do they will be shown here
+
+## This is what I do (if they are ticked off)
+ - [ ] Release Monthly videos on youtube (not yet created)
+ - [ ] Work on my game (unnamed and undecided)
+ - [x] None of the above
+ - [x] Work on other useless projects
+ - [x] Put self deprecating messages in my about me
+ 
+  
+
+
+## Projects
+ - [ ] Particle Simulation
+ 
+<!--| thing? | ah |
+|:----:|:--:|-->
