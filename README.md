@@ -29,7 +29,7 @@ I haven't released any games yet but when I do they will be shown here
  - [ ] Work on my game (unnamed and undecided)
  - [x] None of the above
  - [x] Work on other useless projects
- - [x] Put self deprecating messages in my github readme
+<!-- - [x] Put self deprecating messages in my github readme-->
  
   
 
