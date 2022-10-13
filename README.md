@@ -23,7 +23,7 @@ Hi I'm S1r and I'm an indie game developer
 
 I haven't released any games yet but when I do they will be shown here
 
-## This is what I do 
+## This is what I do/Plan to do
 (Ticked if I am actually doing them)
  - [ ] Release Monthly videos on youtube (not yet created)
  - [ ] Work on my game (unnamed and undecided)
