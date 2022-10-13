@@ -23,7 +23,8 @@ Hi I'm S1r and I'm an indie game developer
 
 I haven't released any games yet but when I do they will be shown here
 
-## This is what I do (if they are ticked off)
+## This is what I do 
+(Ticked if I am actually doing them)
  - [ ] Release Monthly videos on youtube (not yet created)
  - [ ] Work on my game (unnamed and undecided)
  - [x] None of the above
@@ -34,7 +35,11 @@ I haven't released any games yet but when I do they will be shown here
 
 
 ## Projects
+(Ticked if active)
  - [ ] Particle Simulation
  
+ ## Games
+ (Ticked if active)
+ - [ ] Cuddly-Computing-Machine
 <!--| thing? | ah |
 |:----:|:--:|-->
