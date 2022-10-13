@@ -49,3 +49,4 @@ I haven't released any games yet but when I do they will be shown here
 
 ## People I recommend
  - Sebastian Lague [git](https://github.com/SebLague) [yt](https://www.youtube.com/c/SebastianLague)
+ - TodePond [git](https://github.com/TodePond) [yt](https://www.youtube.com/c/TodePond)
