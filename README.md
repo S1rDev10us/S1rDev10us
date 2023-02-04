@@ -23,16 +23,16 @@ Hi I'm S1r and I'm an indie game developer
 
 I haven't released any games yet but when I do they will be shown here
 
+ - 📖 My favourite (collection of) book(s) is the Cosmere by Brandon Sanderson
+ - 🎮 My favourite game is between two:
+   - ⚪ Destiny 2 for story and worldbuilding
+   - ⛏️ Minecraft for creativity
+
 ## This is what I do/Plan to do
 (Ticked if I am actually doing them)
  - [ ] Release Monthly videos on youtube (not yet created)
  - [ ] Work on my game (unnamed and undecided)
- - [x] None of the above
- - [x] Work on other useless projects
-<!-- - [x] Put self deprecating messages in my github readme-->
  
-  
-
 
 ## Projects
 (Ticked if active)
@@ -42,9 +42,6 @@ I haven't released any games yet but when I do they will be shown here
  ## Games
  (Ticked if active)
  - [ ] [Cuddly-Computing-Machine](https://github.com/s1rdev10us/Cuddly-Computing-Machine-Docs/wiki)
-<!--| thing? | ah |
-|:----:|:--:|-->
-
 
 
 ## People I recommend
