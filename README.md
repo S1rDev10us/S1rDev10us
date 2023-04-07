@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 
-Hi my name's S1r. I make videos about my game development journey
+Hi my name's S1rDev10us. I make videos about my game development journey
